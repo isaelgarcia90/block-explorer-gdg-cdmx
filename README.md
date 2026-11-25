@@ -8,8 +8,8 @@
 ## ⚡ Antes de empezar (Prerrequisitos)
 1. Abre **[Google AI Studio](https://aistudio.google.com/)** usando una cuenta personal **`@gmail.com`** (las cuentas corporativas o escolares suelen bloquear funciones experimentales y despliegues).
 2. Ve al panel **Apps** y haz clic en **New App** (o selecciona la pestaña **Build**).
-3. **Sin tarjeta de crédito:** No necesitas configurar facturación en Google Cloud; AI Studio aprovisionará una **Google Maps Platform Demo Key** gratuita (hasta 100 peticiones diarias por API) y desplegará en **Cloud Run Starter Tier**.
-4. *(Opcional)* Si deseas seguir la guía paso a paso oficial en inglés o reclamar tu insignia al finalizar, abre el **[Codelab original aquí](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai)**.
+3. **Sin tarjeta de crédito ni activación manual:** No necesitas configurar facturación ni reclamar los créditos promocionales del paso 2 del Codelab; AI Studio aprovisionará automáticamente una **Google Maps Platform Demo Key** gratuita (hasta 100 peticiones diarias por API) y publicará tu app usando el **Nivel inicial de Google Cloud (Starter Tier)** (hasta 2 apps completas sin costo).
+4. *(Opcional)* Si deseas seguir la guía paso a paso oficial o reclamar tu insignia al finalizar, abre el **[Codelab original aquí](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai?hl=es-419#0)**.
 
 ---
 

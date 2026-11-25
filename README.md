@@ -6,10 +6,18 @@
 ---
 
 ## ⚡ Antes de empezar (Prerrequisitos)
-1. Abre **[Google AI Studio](https://aistudio.google.com/)** usando una cuenta personal **`@gmail.com`** (las cuentas corporativas o escolares suelen bloquear funciones experimentales y despliegues).
+
+### Paso A: Canjea tus créditos patrocinados de Google Cloud
+1. Usa una cuenta personal **`@gmail.com`** (las cuentas de Google Workspace o escolares no son admitidas).
+2. Abre el enlace de créditos del evento (válido el **27/11/2026 de 17:00 a 05:00 hrs**, limitado a 1 canje por cuenta):
+   * **Enlace principal:** https://g.dev/credits/gdg-cdmx-4
+   * **Enlace de respaldo** *(si el primero marca error o ya lo usaste)*: https://g.dev/credits/gdg-cdmx-4-bkp
+3. Completa el formulario para vincular los créditos a tu cuenta de facturación de Google Cloud (no requiere tarjeta bancaria).
+   * *Nota:* Si se agotan los cupos de créditos promocionales, igual puedes completar todo el taller sin costo usando el **Nivel inicial (Starter Tier)** y la **Demo Key** automática de AI Studio.
+
+### Paso B: Abre el entorno de desarrollo
+1. Entra a **[Google AI Studio](https://aistudio.google.com/)** con esa misma cuenta **`@gmail.com`**.
 2. Ve al panel **Apps** y haz clic en **New App** (o selecciona la pestaña **Build**).
-3. **Sin tarjeta de crédito ni activación manual:** No necesitas configurar facturación ni reclamar los créditos promocionales del paso 2 del Codelab; AI Studio aprovisionará automáticamente una **Google Maps Platform Demo Key** gratuita (hasta 100 peticiones diarias por API) y publicará tu app usando el **Nivel inicial de Google Cloud (Starter Tier)** (hasta 2 apps completas sin costo).
-4. *(Opcional)* Si deseas seguir la guía paso a paso oficial o reclamar tu insignia al finalizar, abre el **[Codelab original aquí](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai?hl=es-419#0)**.
 
 ---
 

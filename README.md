@@ -1,10 +1,15 @@
 # 🗺️ Block Explorer — Build with Google Maps Platform & AI
 **Codelab en vivo · GDG CDMX & Devin Community CDMX**
 
+> 📖 **Codelab oficial de Google:** [Build with Google Maps Platform and AI](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai)
+
+---
+
 ## ⚡ Antes de empezar (Prerrequisitos)
 1. Abre **[Google AI Studio](https://aistudio.google.com/)** usando una cuenta personal **`@gmail.com`** (las cuentas corporativas o escolares suelen bloquear funciones experimentales y despliegues).
 2. Ve al panel **Apps** y haz clic en **New App** (o selecciona la pestaña **Build**).
 3. **Sin tarjeta de crédito:** No necesitas configurar facturación en Google Cloud; AI Studio aprovisionará una **Google Maps Platform Demo Key** gratuita (hasta 100 peticiones diarias por API) y desplegará en **Cloud Run Starter Tier**.
+4. *(Opcional)* Si deseas seguir la guía paso a paso oficial en inglés o reclamar tu insignia al finalizar, abre el **[Codelab original aquí](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai)**.
 
 ---
 
@@ -85,3 +90,10 @@ Add information for the user so they know that Hyperlocal Mode is more difficult
 * **El mapa se ve gris o marca error de clave:** Verifica que no estés usando una cuenta institucional/corporativa (`@empresa.com` o `@escuela.edu.mx`) que bloquee proyectos alojados de Google; cambia a una cuenta `@gmail.com` personal.
 * **Error en pantalla al generar los datos o la trivia:** Pídele al chat de AI Studio: *"Fix the API call error shown in the preview and ensure it uses the built-in Gemini SDK and GOOGLE_MAPS_PLATFORM_KEY environment variable"*.
 * **El despliegue en Cloud Run tarda más de 4 minutos:** Recarga la pestaña de AI Studio; tu app ya queda guardada en **Apps** y podrás abrir su URL pública desde ahí.
+
+---
+
+## 📚 Recursos y documentación oficial
+* **Codelab original:** [Build with Google Maps Platform and AI](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai)
+* **Entorno de desarrollo:** [Google AI Studio](https://aistudio.google.com/)
+* **Documentación técnica:** [Google Maps Platform](https://developers.google.com/maps/documentation) · [Google Cloud Run](https://cloud.google.com/run/docs)
